@@ -12,11 +12,6 @@ Passionate software engineer with expertise in full-stack development, data engi
 **Cloud & Tools:** AWS, Docker, Git, CI/CD, Apache Airflow, Power BI, Tableau  
 **AI/ML:** OpenAI, BotPress, Data Analysis, Machine Learning  
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tfashina10&show_icons=true&theme=radical&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tfashina10&layout=compact&theme=radical)
-
 ## 💼 Featured Projects
 
 ### 🏥 Healthcare Web Application
@@ -56,7 +51,6 @@ Passionate software engineer with expertise in full-stack development, data engi
 - 📧 Email: [tfashina10@gmail.com](mailto:tfashina10@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/tolu-fashina](https://www.linkedin.com/in/tolu-fashina/)
 - 🌐 Portfolio: [Your Portfolio URL]
-- 📱 Mobile: 517-648-3122
 
 ---
 
