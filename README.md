@@ -41,11 +41,6 @@ Passionate software engineer with expertise in full-stack development, data engi
 - **Database Design & Optimization**
 - **Business Intelligence Reporting**
 
-## 🎓 Education & Certification
-
-**Michigan State University** - BS Computer & Information Sciences (GPA: 3.0)  
-**Post Graduate Program in Data Analysis** - Data Analytics Certification
-
 ## 📫 Let's Connect
 
 - 📧 Email: [tfashina10@gmail.com](mailto:tfashina10@gmail.com)
